@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1728895781 source:c:\users\cs\desktop\stack\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
+1729045245 source:c:\users\cs\desktop\datastructure\stack\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<stack>
+
+1729087921 source:c:\users\cs\desktop\datastructure\data-structure\stack\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<stack>
+
